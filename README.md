@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a qualified Electronics engineer with an MSc. in Environmental Science currently pursuing a data analyst certification in python and SQL. I have 3 years of experience as a software engineer working with telecom data  in Tech Mahindra and 4 years of experience as a GIS Technician working with geospatial agricultural data in Icon Geo.
+I have a keen interest in programming, data science, GIS and environmental science. 
+I can be reached via email at himanshu9907@gmail.com and linkedin at www.linkedin.com/in/himanshugupta32/
+
